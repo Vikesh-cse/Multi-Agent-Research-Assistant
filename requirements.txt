@@ -33,6 +33,7 @@ uvicorn
 # Data Processing
 pandas
 numpy
+beautifulsoup4
 
 # Utilities
 requests
