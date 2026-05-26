@@ -1,0 +1,39 @@
+# Core
+python-dotenv
+pydantic
+
+# LangChain & LangGraph
+langchain
+langchain-core
+langchain-community
+langgraph
+langsmith
+
+# LLM Providers
+langchain-groq
+openai
+google-generativeai
+langchain-google-genai
+mistralai
+
+# RAG
+sentence-transformers
+faiss-cpu
+chromadb
+pypdf
+
+# Search Tools
+tavily-python
+duckduckgo-search
+
+# API Deployment
+fastapi
+uvicorn
+
+# Data Processing
+pandas
+numpy
+
+# Utilities
+requests
+httpx
